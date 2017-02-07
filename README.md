@@ -1,6 +1,6 @@
 # R_Intro
 
-Code and activities for learning R for students who will be working with data in R. 
+Code and activities for learning R. Designed for students who will be working with data in R. 
 
 ### Activity 1:
 ###### Introduction to R
