@@ -16,4 +16,4 @@ This activity introduces you to working with and visualizing data in R. The scri
 2. _thaw_depth.csv_
 
 
-##### _thaw_depth.csv_ contains data collected on the active layer thickness (the depth between the ground surface and permafrost in cm) in northeastern Sibera. The data was collected from a high denisty larch forest called Davydov and a low density forest (called LDF2). The measurements were initially collected on transects established from an ecosystem inventory in the initial sampling period, but were collected below trees with sap flow sensors in the remaining sampling period.
+##### _thaw_depth.csv_ contains data collected on the active layer thickness (the depth between the ground surface and permafrost in cm) in northeastern Sibera. The data was collected from a high denisty larch forest (Davydov) and a low density forest (LDF2). The measurements were initially collected on transects established from an ecosystem inventory in the initial sampling period, but were collected below trees with sap flow sensors in the remaining sampling period.
