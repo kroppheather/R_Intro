@@ -1,5 +1,5 @@
 # Introduction to R
-###### This activity is a basic introduction to functions and objects in R. You will go through basic vector and mathmetical operations in R to get a feel for the R environment. You will learn how to read in a comma seperated file _(.csv)_ and subset data. 
+This activity is a basic introduction to functions and objects in R. You will go through basic vector and mathmetical operations in R to get a feel for the R environment. You will learn how to read in a comma seperated file _(.csv)_ and subset data. 
 
 ### Objectives
 1. objects in R
