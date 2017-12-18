@@ -1,4 +1,4 @@
-# Scientific plots **work in progress**
+# Scientific plots _work in progress_
 
 ###### This activity is meant to provide an intro to making scientific quality plots in R. It contains more detailed plot code and functions.
 
